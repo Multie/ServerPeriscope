@@ -1,0 +1,6 @@
+[submodule "ServerPeriscope-Client"]
+	path = ServerPeriscope-Client
+	url = https://github.com/Multie/ServerPeriscope-Client
+[submodule "ServerPeriscope-Server"]
+	path = ServerPeriscope-Server
+	url = https://github.com/Multie/ServerPeriscope-Server
